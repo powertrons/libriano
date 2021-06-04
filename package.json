@@ -1,0 +1,32 @@
+{
+  "name": "libriano",
+  "version": "1.0.0",
+  "description": ":3",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "dev": "next dev"
+  },
+  "keywords": [
+    "uwu",
+    "owo",
+    ",_,",
+    ".-.",
+    ":3"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/powertrons/libriano.git"
+  },
+  "author": "Libra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/powertrons/libriano/issues"
+  },
+  "homepage": "https://github.com/powertrons/libriano#readme",
+  "dependencies": {
+    "next": "^10.2.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
